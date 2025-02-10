@@ -14,7 +14,7 @@ A responsive and modern portfolio website built with **HTML, CSS, and JavaScript
 ![Portfolio Preview](./assets/images/website-image.png)  
 
 ## 🔗 Live Demo
-[Visit the Portfolio](your-live-link-here)
+[Visit the Portfolio](https://aleko-khomasuridze.github.io/Personal-Portfolio/)
 
 ## 🛠️ Technologies Used
 - HTML5
